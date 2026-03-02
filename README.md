@@ -3,7 +3,7 @@ This project analyzes U.S. airline flight data to identify performance trends, d
 # Business Problems
 - Identify top reasons for delay and cancellations
 - Find high performing airlines and peak seasons
-- provide recommendations to improve efficiency
+- Provide recommendations to improve efficiency
 
 # Dataset
 - Source: https://www.kaggle.com/datasets/usdot/flight-delays
@@ -19,7 +19,7 @@ This project analyzes U.S. airline flight data to identify performance trends, d
 - Data Cleaning: Remove null values, corrected data types
 - Data Modeling: Create relationship in Power BI between fact and dimension tables
 - KPI Calculation: Using SQL Queries and DAX Measures
-- Visualization: Build Interactive dasboard for insights
+- Visualization: Build Interactive dashboard for insights
 
 # Key Insights
 - The cancellation rate is **1.64%**, with ORD airport responsible for **9%** of all cancellations, mainly due to winter weather in **February**.
